@@ -1,0 +1,8 @@
+1. Why so many null values?
+
+ *6   Food Insecurity Rate among Black Persons (all ethnicities)  7432 non-null   str    
+ *7   Food Insecurity Rate among Hispanic Persons (any race)      8915 non-null   str    
+ 8   Food Insecurity Rate among White, non-Hispanic Persons      15442 non-null  str    
+ *20  Rural-Urban Continuum Code (2023)                           6288 non-null   float64
+
+Some columns had no null values, others had a few, but these had a lot. 
