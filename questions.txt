@@ -6,3 +6,8 @@
  *20  Rural-Urban Continuum Code (2023)                           6288 non-null   float64
 
 Some columns had no null values, others had a few, but these had a lot. 
+
+2. I would like to filter out different years (e.g., 2019 vs 2023). Maybe just focus on 2023 initially, then determine trends over time?
+
+3. What do some of the column names mean?
+
